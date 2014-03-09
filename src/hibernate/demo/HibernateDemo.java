@@ -8,7 +8,7 @@ package hibernate.demo;
 
 /**
  *
- * @author Gobinath
+ * @author Ayata
  */
 public class HibernateDemo {
 
